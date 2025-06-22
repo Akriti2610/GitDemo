@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="8" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-31T20:43:24 IST" name="Suite" finished-at="2025-05-31T20:43:24 IST" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2025-05-31T20:43:24 IST" name="Test" finished-at="2025-05-31T20:43:24 IST" duration-ms="76">
+      <class name="testngg.Practice3">
+        <test-method signature="test6()[pri:0, instance:testngg.Practice3@2b662a77]" started-at="2025-05-31T20:43:24 IST" name="test6" finished-at="2025-05-31T20:43:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test8()[pri:0, instance:testngg.Practice3@2b662a77]" started-at="2025-05-31T20:43:24 IST" name="test8" finished-at="2025-05-31T20:43:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+      </class> <!-- testngg.Practice3 -->
+      <class name="testngg.Practice1">
+        <test-method signature="test2()[pri:0, instance:testngg.Practice1@436813f3]" started-at="2025-05-31T20:43:24 IST" name="test2" finished-at="2025-05-31T20:43:24 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testngg.Practice1 -->
+      <class name="testngg.Practice2">
+        <test-method signature="test3()[pri:0, instance:testngg.Practice2@57a3af25]" started-at="2025-05-31T20:43:24 IST" name="test3" finished-at="2025-05-31T20:43:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:testngg.Practice2@57a3af25]" started-at="2025-05-31T20:43:24 IST" name="test4" finished-at="2025-05-31T20:43:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:testngg.Practice2@57a3af25]" started-at="2025-05-31T20:43:24 IST" name="test5" finished-at="2025-05-31T20:43:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- testngg.Practice2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
