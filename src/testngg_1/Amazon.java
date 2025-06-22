@@ -22,6 +22,8 @@ public class Amazon {
 		System.out.println("Successfully loggedin");
 		System.out.println(user);
 		System.out.println(pass);
+		System.out.println("Akriti");
+		System.out.println("Amanat");
 		
 	}
 	
