@@ -8,6 +8,8 @@ public class Practice1 {
 	public static void test1()
 	{
 		System.out.println("hii");
+		System.out.println("hii1");
+		System.out.println("hii2");
 	}
 	
 	@Test
